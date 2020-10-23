@@ -370,7 +370,7 @@ line-height: 24px;
 .promo {
   display: block;
   background: #fff;
-  background-image: url("../IMG/promo.png");
+  background-image: url("../img/promo.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
